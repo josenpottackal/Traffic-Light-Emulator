@@ -1,7 +1,7 @@
 // File Name: Traffic Light
 // Purpose: Emulates a Traffic Light
-// Date: 2020-03-01
-// Last modified: 2020-03-01
+// Date: 2016-07-03
+// Last modified: 2016-07-03
 // Author: Josen Pottackal
 // Copy right no copyright
 // Version: 1.0
